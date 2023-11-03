@@ -13,5 +13,3 @@ The Code-IO is a robust and user-friendly web-based platform designed to streaml
 * Frontend: React and MaterialUI for building the interactive user interface.
 * Backend: Express and Node.js for creating a powerful and scalable server.
 
-# Screenshots
-![Screenshot_20230803_113657](https://github.com/prashantkr29/Code-IO/assets/94616578/f8e69317-f879-48de-950a-22e5c616e00d)
